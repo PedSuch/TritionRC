@@ -1,0 +1,20 @@
+------------------------
+#S Syntax for UltraSonic
+------------------------
+
+------------------------
+# Datatypes (KEYWORD1)
+------------------------
+
+UltraSonic	KEYWORD1
+
+
+------------------------
+#Methods and Functions
+------------------------
+
+getDistance	KEYWORD2
+
+------------------------
+# Constants (LITERAL1)
+------------------------
